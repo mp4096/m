@@ -1,0 +1,16 @@
+author:
+  name: Jane Doe
+  email: mikhail.pak@tum.de
+  browser: chromium-browser
+
+email_server:
+    hostname: postout.lrz.de
+    port: 587
+
+global_context:
+  subject: Global subject
+
+recipients:
+  hello@mp4096.com:
+    salutation: Hi John
+    subject: Local subject, overrides global one
