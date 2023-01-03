@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/mp4096/bart"
+	"github.com/mp4096/m/src/cmd/bart"
 )
 
 const (
