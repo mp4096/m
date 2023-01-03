@@ -1,0 +1,8 @@
+{
+  "_base": {
+    "description": "Base config",
+    "exclude_files": {
+      "external/": "exclude all third_party code for all analyzers"
+    }
+  }
+}
